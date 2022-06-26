@@ -1,0 +1,9 @@
+    "name": Meta Exchange Token",
+    "website": "https://metaexchange.business",
+    "description": "Meta Exchange token (META) is a deflationary BEP-20 token on the Binance Block Chain that joins investors, innovative decentralized products, and the wild world around us in a common mission. fallow us to create a bridge between Crypto and Forex.",
+    "explorer": "https://bscscan.com/token/0x1b18fcad7b12912feee63e3efa968a2f5af3b484?a=0x141e41c2dc8d89767c97731ab499f89fabfe9297",
+    "type": "BEP20",
+    "symbol": "META",
+    "decimals": 2,
+    "status": "active",
+    "id": "0x1b18fcad7b12912feee63e3efa968a2f5af3b484"
